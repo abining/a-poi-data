@@ -16,3 +16,25 @@ node trans.js ./zhoushan_homestays.json
 ```
 
 参数介绍：第一个是脚本的路径；第二个是脚本的输入数据，这里选择舟山的民宿的json数据。
+
+
+多个数据合成脚本：
+
+```
+node .\translot.js '.\zhoushan_homestays copy 2.json' '.\zhoushan_homestays copy 3.json' '.\zhoushan_homestays copy 4.json' '.\zhoushan_homestays copy 5.json' '.\zhoushan_homestays copy 6.json' '.\zhoushan_homestays copy.json'
+```
+
+
+爬取古建筑的脚本。
+
+1。 将您的文本数据转换为结构化CSV输入文件（例如：`input.csv`）:
+
+2 。 **输出文件** ：生成 `output.csv`包含经纬度
+
+
+安装依赖
+
+```
+npm install csv-parser axios csv-stringify p-limit
+
+```
