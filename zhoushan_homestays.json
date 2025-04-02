@@ -1,0 +1,404 @@
+[
+  {
+    "id": "BZBGQ200JH",
+    "name": "解放里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "云龙区",
+    "location": [
+      117.197708,
+      34.254969
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZBGQ200PH",
+    "name": "永平里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "鼓楼区",
+    "location": [
+      117.202828,
+      34.265174
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "B0IA3GMYIC",
+    "name": "海棠里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "建邺区",
+    "location": [
+      118.743939,
+      32.039193
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZAPQF02WN",
+    "name": "龙蟠里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "鼓楼区",
+    "location": [
+      118.764559,
+      32.046082
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZAPQF03IO",
+    "name": "平安里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "鼓楼区",
+    "location": [
+      118.773867,
+      32.072898
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZAPQF0312",
+    "name": "三省里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "鼓楼区",
+    "location": [
+      118.771143,
+      32.059198
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZAPQF030F",
+    "name": "新泉里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "鼓楼区",
+    "location": [
+      118.776645,
+      32.066521
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZAPQF02XZ",
+    "name": "来凤里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "秦淮区",
+    "location": [
+      118.770962,
+      32.02143
+    ],
+    "tel": [],
+    "photos": [
+      "http://store.is.autonavi.com/showpic/67e4bf2441e592b66da4dc5e56cd9364"
+    ],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZAPQF01H2",
+    "name": "汇文里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "玄武区",
+    "location": [
+      118.785463,
+      32.049382
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZAPQF04DG",
+    "name": "能仁里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "雨花台区",
+    "location": [
+      118.768631,
+      31.999258
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZAQQF00NZ",
+    "name": "笆斗西里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "栖霞区",
+    "location": [
+      118.830417,
+      32.14784
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZAPQF000Q",
+    "name": "文德里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "玄武区",
+    "location": [
+      118.798274,
+      32.048562
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZAQQF00O0",
+    "name": "笆斗东里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "栖霞区",
+    "location": [
+      118.833343,
+      32.149357
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "B0IA3NDG6H",
+    "name": "尚书里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "秦淮区",
+    "location": [
+      118.808156,
+      32.026533
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZAPQF04B2",
+    "name": "观前里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "秦淮区",
+    "location": [
+      118.822533,
+      32.014094
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZAOQF00Q7",
+    "name": "靖安里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "江宁区",
+    "location": [
+      118.835127,
+      31.954571
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZAQQG00G7",
+    "name": "河西里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "栖霞区",
+    "location": [
+      118.950237,
+      32.163731
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZATQK010L",
+    "name": "仁丰里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "广陵区",
+    "location": [
+      119.43705,
+      32.390815
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZAMQO01BW",
+    "name": "西瀛里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "钟楼区",
+    "location": [
+      119.951,
+      31.777668
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "B0KK3ABPGO",
+    "name": "桃田里",
+    "type": "地名地址信息;地名地址信息;地名地址信息",
+    "address": "惠山区",
+    "location": [
+      120.119378,
+      31.576191
+    ],
+    "tel": [],
+    "photos": [
+      "http://store.is.autonavi.com/showpic/093dbddf40e955538774ce7f8dc55dcf"
+    ],
+    "rating": "4.0",
+    "price": []
+  },
+  {
+    "id": "B0IA3PH569",
+    "name": "民丰里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "梁溪区",
+    "location": [
+      120.297876,
+      31.603991
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZANQS00LD",
+    "name": "卢巷里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "江阴市",
+    "location": [
+      120.443124,
+      31.876663
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "B0KUBASFMI",
+    "name": "叙康里",
+    "type": "地名地址信息;热点地名;热点地名",
+    "address": "新吴区",
+    "location": [
+      120.348587,
+      31.565487
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZAGQT025H",
+    "name": "天福里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "姑苏区",
+    "location": [
+      120.602143,
+      31.30932
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZAGQT01U9",
+    "name": "南阳里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "姑苏区",
+    "location": [
+      120.603032,
+      31.309958
+    ],
+    "tel": [],
+    "photos": [
+      "http://store.is.autonavi.com/showpic/d6cc67cacb6b5a27e3c12f225e4aa8d2"
+    ],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "B0IATO47A9",
+    "name": "东海里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "姑苏区",
+    "location": [
+      120.602991,
+      31.308439
+    ],
+    "tel": [],
+    "photos": [],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "BZAGQT01DR",
+    "name": "塘湾里",
+    "type": "地名地址信息;交通地名;道路名",
+    "address": "吴中区",
+    "location": [
+      120.629168,
+      31.257378
+    ],
+    "tel": [],
+    "photos": [
+      "http://store.is.autonavi.com/showpic/7946636cf39ca6ae357b277a14f00727"
+    ],
+    "rating": [],
+    "price": []
+  },
+  {
+    "id": "B0J6AZXP4K",
+    "name": "花园里",
+    "type": "商务住宅;住宅区;住宅小区",
+    "address": "唯亭街道科营路与成义路交叉口南120米",
+    "location": [
+      120.739794,
+      31.367536
+    ],
+    "tel": [],
+    "photos": [
+      "http://store.is.autonavi.com/showpic/659aeb8ccc24ff3baded3e62bcdadfdf"
+    ],
+    "rating": [],
+    "price": []
+  }
+]
