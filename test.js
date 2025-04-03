@@ -40,7 +40,7 @@ async function processRow(row) {
   let batchCount = 0; // 用于计数每批次处理的数量
 
   // 构建链式调用
-  rows.slice(0, 80).forEach((row, index) => { // 测试前80条
+  rows.slice(0, 201).forEach((row, index) => { // 测试前80条
     chain = chain.then(async (results) => {
       const result = await processRow(row);
       processedCount++;
